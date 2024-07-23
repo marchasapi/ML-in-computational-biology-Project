@@ -16,6 +16,8 @@ human_MTG_2018-06-14_samples-columns.csv ,
 
 These files are large and cannot be uploaded to GitHub. They can be downloaded from the following Google Drive link: https://drive.google.com/drive/folders/1Ae3_XnBHqdjQDkYBvBUQWlCimx5BpWee?usp=sharing
 
+**Note:** Once you download the "human_MTG_gene_expression_matrices_2018-06-14" folder, place it in the same directory as the notebooks, models, src, and data_preprocessed directories, and then run the Step 1 code.
+
 **Step 2 - Dimension Reduction**
 
 Required file: everything40.csv
