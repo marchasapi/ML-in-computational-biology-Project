@@ -9,10 +9,11 @@ We used models like Logistic Regression, Random Forest, k-Nearest Neighbors, Lin
 **Step 1 - Preprocessing-R.R**
 
 Required files:
-human_MTG_2018-06-14_exon-matrix.csv
-human_MTG_2018-06-14_genes-rows.csv
-human_MTG_2018-06-14_intron-matrix.csv
-human_MTG_2018-06-14_samples-columns.csv
+human_MTG_2018-06-14_exon-matrix.csv , 
+human_MTG_2018-06-14_genes-rows.csv , 
+human_MTG_2018-06-14_intron-matrix.csv , 
+human_MTG_2018-06-14_samples-columns.csv , 
+
 These files are large and cannot be uploaded to GitHub. They can be downloaded from the following Google Drive link: https://drive.google.com/drive/folders/1Ae3_XnBHqdjQDkYBvBUQWlCimx5BpWee?usp=sharing
 
 **Step 2 - Dimension Reduction**
