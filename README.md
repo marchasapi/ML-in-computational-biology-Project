@@ -36,6 +36,7 @@ Required file: everything40_cleaned_normalized_reduced.csv
 This file is the same as the one used in Steps 3 and 4.
 
 **Additional Resources**
+
 Model File: random_forest_model.pkl
 This model file is located in the /models directory on the Google Drive. It could not be uploaded to GitHub due to size limitations.
 Download it from the following link: https://drive.google.com/drive/folders/1Ae3_XnBHqdjQDkYBvBUQWlCimx5BpWee?usp=sharing
